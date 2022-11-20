@@ -2,11 +2,11 @@
 
 ## Module 1 - Capstone Introduction and Understanding the Datasets
 
-Collecting the data https://github.com/seliasgomez/IBM-DS0720EN/blob/master/jupyter-labs-spacex-data-collection-api.ipynb
+Collecting the data https://github.com/seliasgomez/IBM-DS0720EN/blob/main/jupyter-labs-spacex-data-collection-api.ipynb
 
-Web scraping https://github.com/seliasgomez/IBM-DS0720EN/blob/master/jupyter-labs-webscraping.ipynb
+Web scraping https://github.com/seliasgomez/IBM-DS0720EN/blob/main/jupyter-labs-webscraping.ipynb
 
-Data wrangling https://github.com/seliasgomez/IBM-DS0720EN/blob/master/labs-jupyter-spacex-Data%20wrangling.ipynb
+Data wrangling https://github.com/seliasgomez/IBM-DS0720EN/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb 
 
 ## Module 2 - Exploratory Data Analysis (EDA)
 
