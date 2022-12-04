@@ -18,7 +18,7 @@ Complete the EDA with Visualization https://github.com/seliasgomez/IBM-DS0720EN/
 
 Interactive Visual Analytics with Folium https://github.com/seliasgomez/IBM-DS0720EN/blob/main/lab_jupyter_launch_site_location.ipynb
 
-Interactive Dashboard with Ploty Dash
+Interactive Dashboard with Ploty Dash https://github.com/seliasgomez/IBM-DS0720EN/blob/main/spacex_dash_app.py
 
 ## Module 4 - Predictive Analysis (Classification)
 
