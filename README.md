@@ -12,7 +12,7 @@ Data wrangling https://github.com/seliasgomez/IBM-DS0720EN/blob/main/labs-jupyte
 
 Complete the EDA with SQL https://github.com/seliasgomez/IBM-DS0720EN/blob/main/jupyter-labs-eda-sql-edx.ipynb
 
-Complete the EDA with Visualization
+Complete the EDA with Visualization https://github.com/seliasgomez/IBM-DS0720EN/blob/main/jupyter-labs-eda-dataviz.ipynb
 
 ## Module 3 - Interactive Visual Analytics and Dashboard
 
