@@ -22,4 +22,4 @@ Interactive Dashboard with Ploty Dash
 
 ## Module 4 - Predictive Analysis (Classification)
 
-Machine Learning Prediction lab
+Machine Learning Prediction lab https://github.com/seliasgomez/IBM-DS0720EN/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb
